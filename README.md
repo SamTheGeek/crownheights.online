@@ -12,7 +12,7 @@ An (incomplete) list of businesses to potentially add can be found [on this wiki
 
 # License
 
-Available for use under the MIT license: [http://bryan.mit-license.org](http://bryan.mit-license.org)
+Available for use under the MIT license
 
 ## Source
 
