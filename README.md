@@ -16,4 +16,4 @@ Available for use under the MIT license
 
 ## Source
 
-Forked from [Bryan Irace's work](https://github.com/irace/prospectheightsbk.com) for [prospectheightsbk.com](prospectheightsbk.com)
+Forked from [Bryan Irace's work](https://github.com/irace/prospectheightsbk.com) for [prospectheightsbk.com](https://prospectheightsbk.com)
