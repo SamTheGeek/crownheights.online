@@ -58,6 +58,15 @@ open:
       caviar: https://www.trycaviar.com/m/king-tai-20441
     last_updated: 4/5
 
+  - name: Peppa's Jerk Chicken
+    url: https://www.peppasonline.com
+    hours: 11am - 11pm (Mon - Tue), 11am - 10:45pm (Wed), 11am - 11pm (Thu - Sun)
+    phone: (718) 450-3987
+    delivery:
+      seamless: https://www.seamless.com/menu/peppas-jerk-chicken-791-prospect-pl-brooklyn/581469
+      doordash: https://www.doordash.com/store/peppas-jerk-chicken-brooklyn-132959/
+    last_updated: 4/5
+
   - name: Uotora
     url: https://www.uotorabk.com
     instagram: https://www.instagram.com/uotorabk/
